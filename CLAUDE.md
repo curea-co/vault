@@ -60,8 +60,7 @@ vault/
 │   ├── _meta/           # RULES, INDEX, GLOSSARY
 │   ├── _templates/      # 문서 템플릿
 │   ├── concepts/        # 개념/이론 문서
-│   ├── tutorials/       # 실습/가이드 문서
-│   └── troubleshooting/ # 문제 해결 기록
+│   └── notes/           # 정리/인사이트 문서
 └── work/                # 업무 기록
     ├── _meta/           # RULES, INDEX, GLOSSARY
     ├── _templates/      # 문서 템플릿
