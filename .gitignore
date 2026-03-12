@@ -1,0 +1,6 @@
+# Obsidian 설정
+.obsidian/
+
+# 시스템 파일
+.DS_Store
+.trash/
